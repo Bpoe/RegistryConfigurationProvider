@@ -1,2 +1,2 @@
 # RegistryConfigurationProvider
-A .Net IConfiguration provider for getting configuration data from the Windows Registry
+Registry configuration provider implementation for Microsoft.Extensions.Configuration.
